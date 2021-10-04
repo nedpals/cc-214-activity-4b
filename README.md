@@ -8,7 +8,7 @@
 ## Checklist
 ### Film
 - [x] dbselect_film.js
-- [] dbinsert_film.js
+- [x] dbinsert_film.js
 - [] dbupdate_film.js
 - [] dbdelete_film.js
 
