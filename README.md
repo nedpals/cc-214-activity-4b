@@ -9,19 +9,23 @@
 ### Film
 - [x] dbselect_film.js
 - [x] dbinsert_film.js
-- [ ] dbupdate_film.js
-- [ ] dbdelete_film.js
+- [x] dbupdate_film.js
+- [x] dbdelete_film.js
 
 ### Customer
-- [ ] dbselect_customer.js
-- [ ] dbinsert_customer.js
-- [ ] dbupdate_customer.js
-- [ ] dbdelete_customer.js
+- [x] dbselect_customer.js
+- [x] dbinsert_customer.js
+- [x] dbupdate_customer.js
+- [x] dbdelete_customer.js
 
 ### Rental
-- [ ] dbselect_rental.js
-- [ ] dbinsert_rental.js
-- [ ] dbupdate_rental.js
-- [ ] dbdelete_rental.js
+- [x] dbselect_rental.js
+- [x] dbinsert_rental.js
+- [x] dbupdate_rental.js
+- [x] dbdelete_rental.js
+
+### Recording 
+- https://drive.google.com/file/d/1y7QIpOpM8BtHL-9vubhyUYYNfjLN1Vxv/view?usp=sharing
+- https://drive.google.com/file/d/1PZaidQQtJ6JJK-dz6OZSe6QD8_L4ata_/view?usp=sharing
 
 #### (c) 2021 ScriptKiddies™️
